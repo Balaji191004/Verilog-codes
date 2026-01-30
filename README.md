@@ -3,7 +3,7 @@
 
 This repository contains Verilog HDL codes written for learning and practicing RTL design concepts from basic to advanced level.
 The projects focus on clean coding style, synthesizable design,and proper verification using testbenches.
-# Topics Covered
+## Topics Covered
 - Basic logic gates
 - Combinational circuits
 - Sequential circuits
